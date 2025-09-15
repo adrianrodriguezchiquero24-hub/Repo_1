@@ -2,9 +2,9 @@
 
 Las cosas de clase.
 
+Hola.
 
-
-<ins> Me justa programar </ins>
+<ins> Me gusta programar </ins>
 
 
 
